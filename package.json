@@ -1,0 +1,17 @@
+{
+  "name": "jasminepractice",
+  "version": "1.0.0",
+  "description": "Use TDD to develop a function that accepts a string as an argument and extracts values inside of double curly braces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch ./lib/index.js ./js/bundle.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.5.3",
+    "webpack": "^2.2.1"
+  }
+}

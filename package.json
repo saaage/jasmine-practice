@@ -4,7 +4,7 @@
   "description": "Use TDD to develop a function that accepts a string as an argument and extracts values inside of double curly braces.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jasmine"
   },
   "keywords": [],
   "author": "",
